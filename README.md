@@ -16,13 +16,13 @@
 
 <div class="card">
   <img src="logo.png" class="avatar">
-  <h1 id="name">Qays</h1>
+  <h1 id="name">Shalaw</h1>
   <p id="bio">Profile Website</p>
 
-  <a href="https://instagram.com" target="_blank">Instagram</a>
-  <a href="https://facebook.com" target="_blank">Facebook</a>
-  <a href="https://t.me" target="_blank">Telegram</a>
-  <a href="https://discord.gg" target="_blank">Discord</a>
+  <a href="https://www.instagram.com/ssha14w" target="_blank">Instagram</a>
+  <a href="https://www.facebook.com/share/1DgJvTtcC8/" target="_blank">Facebook</a>
+  <a href="t.me/Sha14w" target="_blank">Telegram</a>
+  <a href="https://discord.gg/NkMtT9gcvv" target="_blank">Discord</a>
 </div>
 
 <script src="lang.js"></script>
