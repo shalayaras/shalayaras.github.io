@@ -1,0 +1,32 @@
+body {
+  background:#0f172a;
+  font-family:Arial;
+  color:white;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  height:100vh;
+}
+.card {
+  background:#020617;
+  padding:25px;
+  border-radius:15px;
+  text-align:center;
+  width:300px;
+}
+.avatar {
+  width:100px;
+  border-radius:50%;
+}
+a {
+  display:block;
+  margin:10px;
+  padding:10px;
+  background:#2563eb;
+  color:white;
+  text-decoration:none;
+  border-radius:8px;
+}
+.lang button {
+  margin:5px;
+}
