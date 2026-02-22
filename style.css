@@ -30,3 +30,10 @@ a {
 .lang button {
   margin:5px;
 }
+
+.logo {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%; /* ئەگەر دەتەوێت بازنە */
+  margin-bottom: 15px;
+}
