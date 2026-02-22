@@ -2,12 +2,14 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>My Profile</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Shalaw Personal Profile Website">
+<title>Shalaw | Profile</title>
 <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
-<img src="logo.png" alt="Logo" class="logo">
-  
+
 <div class="lang">
   <button onclick="setLang('ku')">KU</button>
   <button onclick="setLang('en')">EN</button>
@@ -16,14 +18,31 @@
 </div>
 
 <div class="card">
-  <img src="logo.png" class="avatar">
+
+  <!-- Main Profile Image -->
+  <img src="logo.png" alt="Shalaw Logo" class="avatar">
+
   <h1 id="name">Shalaw</h1>
   <p id="bio">Profile Website</p>
 
-  <a href="https://www.instagram.com/ssha14w" target="_blank">Instagram</a>
-  <a href="https://www.facebook.com/share/1DgJvTtcC8/" target="_blank">Facebook</a>
-  <a href="t.me/Sha14w" target="_blank">Telegram</a>
-  <a href="https://discord.gg/NkMtT9gcvv" target="_blank">Discord</a>
+  <div class="links">
+    <a href="https://www.instagram.com/ssha14w" target="_blank" rel="noopener">
+      Instagram
+    </a>
+
+    <a href="https://www.facebook.com/share/1DgJvTtcC8/" target="_blank" rel="noopener">
+      Facebook
+    </a>
+
+    <a href="https://t.me/Sha14w" target="_blank" rel="noopener">
+      Telegram
+    </a>
+
+    <a href="https://discord.gg/NkMtT9gcvv" target="_blank" rel="noopener">
+      Discord
+    </a>
+  </div>
+
 </div>
 
 <script src="lang.js"></script>
